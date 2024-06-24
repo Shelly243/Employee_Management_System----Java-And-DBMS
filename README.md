@@ -1,0 +1,8 @@
+![Screenshot 2024-06-24 125940](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/dbcb7e8d-7d80-414c-be3b-358274ee9f19)
+![Screenshot 2024-06-24 130020](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/5bbbd736-e434-4a88-945b-eb9e2dda25b9)
+![Screenshot 2024-06-24 130043](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/6d3f62de-7045-42ee-81b1-9fb6e6bdf744)
+![Screenshot 2024-06-24 130155](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/aae2d0f9-4604-49c8-a11c-ea9fdf17ff9b)
+![Screenshot 2024-06-24 130339](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/b306350c-f880-4370-b385-d9f12a5d767a)
+![Screenshot 2024-06-24 130416](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/549740da-7513-434e-9853-714fab5fc765)
+![Screenshot 2024-06-24 130445](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/53ec6e7f-435e-4f93-8ba6-f64076fae748)
+![Screenshot 2024-06-24 130757](https://github.com/Shelly243/Employee_Management_System----Java-And-DBMS/assets/108860947/5f90c82d-4f10-43a8-8b2c-e3ccfb0a5b27)
